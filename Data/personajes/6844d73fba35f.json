@@ -1,0 +1,22 @@
+{
+    "id": "6844d73fba35f",
+    "nombre": "Ken ",
+    "apellido": "El duro",
+    "fechaNacimiento": "2005-01-01",
+    "foto": "https:\/\/th.bing.com\/th\/id\/OIP.C8zOFyBQNzrCXZAcdSv34AHaEK?r=0&rs=1&pid=ImgDetMain",
+    "profesiones": [
+        {
+            "id": 1,
+            "nombre": "Guerrera\/o",
+            "categoria": "Combate",
+            "salario": 1500
+        },
+        {
+            "id": "3",
+            "nombre": "Carpintero",
+            "categoria": "combate",
+            "salario": 7000
+        }
+    ],
+    "nivelExperiencia": "Avanzado"
+}

@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  },
+  "name": "proweb3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel23play/ProWeb3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel23play/ProWeb3/issues"
+  },
+  "homepage": "https://github.com/Angel23play/ProWeb3#readme",
+  "description": ""
+}

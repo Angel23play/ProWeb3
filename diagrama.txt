@@ -1,0 +1,67 @@
+Personajes con propiedades y un array de profesiones donde sus metodos son un crud.
+
+
+--------------------------------------------------------------------------------------------
+Propiedades de Personajes
+
+Identificación
+Nombre
+Apellido
+Fecha de nacimiento
+Foto del personaje
+Profesión o Rol en el Mundo Barbie (Se debe elegir de una lista de profesiones)
+Nivel de experiencia (Principiante, Intermedio, Avanzado)
+
+---------------------------------------------------------------------------------------
+Propiedades de Profesiones
+
+Nombre de la profesión (Ejemplo: Veterinaria, Piloto, Diseñadora de Moda, Científica, Chef, etc.)
+Categoría (Ciencia, Arte, Deporte, Entretenimiento, etc.)
+Salario mensual estimado en dólares ($USD)
+Permitir asociar múltiples profesiones y salarios a cada personaje.
+-------------------------------------------------------------------------------
+Propiedades y requisitos de Panel de Estadísticas (Dashboard) con Gráficos
+
+Desarrollar una página de panel de control que muestre las siguientes estadísticas:
+Cantidad total de personajes registrados.
+Cantidad total de profesiones registradas.
+Edad promedio de los personajes.
+Distribución de personajes según su categoría de profesión.
+Nivel de experiencia más común entre los personajes.
+Profesión con el salario más alto y la de menor salario.
+Salario promedio en el mundo Barbie.
+Personaje con el salario más alto.
+Un gráfico de barras o pastel 
+
+🏗️ Modificación de Datos:
+Implementar funcionalidades para editar y eliminar la información de los personajes y sus profesiones.
+
+📊 Panel de Estadísticas (Dashboard) con Gráficos:
+Desarrollar una página de panel de control que muestre las siguientes estadísticas:
+Cantidad total de personajes registrados.
+Cantidad total de profesiones registradas.
+Edad promedio de los personajes.
+Distribución de personajes según su categoría de profesión.
+Nivel de experiencia más común entre los personajes.
+Profesión con el salario más alto y la de menor salario.
+Salario promedio en el mundo Barbie.
+Personaje con el salario más alto.
+Un gráfico de barras o pastel (Chart.js) que represente la distribución de salarios por categoría de profesión.
+
+💾 Persistencia de Datos:
+Almacenar y gestionar los datos en el servidor para garantizar su persistencia y accesibilidad.
+
+🎨 Diseño y Estilo:
+Aplicar estilos CSS para mejorar la presentación del sitio web. (USAR LOS COLORES DE LA MARCA)
+Se permite el uso de frameworks CSS como Bootstrap o Tailwind.
+Se anima a los estudiantes a hacer la interfaz lo más creativa y acorde con el mundo de Barbie (colores vibrantes, íconos, tipografía llamativa, etc.).
+
+🏆 Criterios de Evaluación:
+Funcionalidad y Lógica en PHP (2 puntos): Implementación correcta de formularios, operaciones CRUD y cálculos de estadísticas.
+Diseño del Dashboard (1 punto): Creatividad, claridad y organización en la visualización de datos, con al menos un gráfico implementado.
+Calidad del Código (1 punto): Código organizado, estructurado y con comentarios explicativos.
+Colores. Fuentes y diseño de la marca (1 punto)
+
+📅 Entrega:
+Subir los archivos del proyecto a la plataforma de la asignatura antes de la fecha límite.
+Asegurarse de que la aplicación funcione correctamente en diferentes navegadores.

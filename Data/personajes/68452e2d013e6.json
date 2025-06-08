@@ -1,0 +1,16 @@
+{
+    "id": "68452e2d013e6",
+    "nombre": "Barbie",
+    "apellido": "La Juliana",
+    "fechaNacimiento": "2003-08-07",
+    "foto": "https:\/\/th.bing.com\/th\/id\/OIP.FuHhQb9EN9-oaFo_JdiqgAAAAA?rs=1&pid=ImgDetMain",
+    "profesiones": [
+        {
+            "id": 8,
+            "nombre": "Veterinaria\/o de Mascotas",
+            "categoria": "Salud Animal",
+            "salario": 2800
+        }
+    ],
+    "nivelExperiencia": "Principiante"
+}
